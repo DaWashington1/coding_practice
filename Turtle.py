@@ -1,0 +1,17 @@
+import turtle
+wn = turtle.Screen()
+alex = turtle.Turtle()
+alex.forward(50)
+alex.left(90)
+alex.forward(30)
+wn.mainloop()
+import turtle
+wn = turtle.Screen()
+wn.title("Hello,Tess!")
+tess = turtle.Turtle()
+tess.color("blue")
+tess.pensize(3)
+tess.forward(50)
+tess.left(120)
+tess.forward(50)
+wn.mainloop()
